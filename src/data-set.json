@@ -1,0 +1,482 @@
+[
+    {
+        "John": [
+            [
+                {
+                    "date": "2021-01-01",
+                    "description": "water bottle",
+                    "amount": 100
+                },
+                {
+                    "date": "2021-01-05",
+                    "description": "Sanitizer",
+                    "amount": 250
+                },
+                {
+                    "date": "2021-01-12",
+                    "description": "Tissues",
+                    "amount": 38
+                },
+                {
+                    "date": "2021-01-18",
+                    "description": "A4 bundle",
+                    "amount": 89
+                },
+                {
+                    "date": "2021-01-04",
+                    "description": "Clothing",
+                    "amount": 215
+                },
+                {
+                    "date": "2021-01-21",
+                    "description": "Medicine",
+                    "amount": 375
+                },
+                {
+                    "date": "2021-01-25",
+                    "description": "herbs",
+                    "amount": 99
+                },
+                {
+                    "date": "2021-01-26",
+                    "description": "News Paper",
+                    "amount": 10
+                },
+                {
+                    "date": "2021-01-29",
+                    "description": "Colors",
+                    "amount": 49
+                },
+                {
+                    "date": "2021-01-31",
+                    "description": "Soaps",
+                    "amount": 50
+                }
+            ],
+            [
+                {
+                    "date": "2021-02-02",
+                    "description": "Shampoo",
+                    "amount": 150
+                },
+                {
+                    "date": "2021-02-06",
+                    "description": "Detergent",
+                    "amount": 250
+                },
+                {
+                    "date": "2021-02-08",
+                    "description": "Tissues",
+                    "amount": 50
+                },
+                {
+                    "date": "2021-02-11",
+                    "description": "Spices",
+                    "amount": 250
+                },
+                {
+                    "date": "2021-02-15",
+                    "description": "Clothing",
+                    "amount": 450
+                },
+                {
+                    "date": "2021-02-16",
+                    "description": "Alcohol",
+                    "amount": 1500
+                },
+                {
+                    "date": "2021-02-19",
+                    "description": "Dairy",
+                    "amount": 600
+                },
+                {
+                    "date": "2021-02-20",
+                    "description": "News Paper",
+                    "amount": 10
+                },
+                {
+                    "date": "2021-02-23",
+                    "description": "Groceries",
+                    "amount": 1100
+                },
+                {
+                    "date": "2021-02-27",
+                    "description": "Cosmetics",
+                    "amount": 500
+                }
+            ],
+            [
+                {
+                    "date": "2021-03-01",
+                    "description": "water bottle",
+                    "amount": 100
+                },
+                {
+                    "date": "2021-03-05",
+                    "description": "Paper",
+                    "amount": 50
+                },
+                {
+                    "date": "2021-03-08",
+                    "description": "Detergent",
+                    "amount": 250
+                },
+                {
+                    "date": "2021-03-10",
+                    "description": "Toothpick",
+                    "amount": 40
+                },
+                {
+                    "date": "2021-03-11",
+                    "description": "Electric box",
+                    "amount": 350
+                },
+                {
+                    "date": "2021-03-14",
+                    "description": "Towels",
+                    "amount": 550
+                },
+                {
+                    "date": "2021-03-17",
+                    "description": "Perfume",
+                    "amount": 490
+                },
+                {
+                    "date": "2021-03-21",
+                    "description": "Pulses",
+                    "amount": 369
+                },
+                {
+                    "date": "2021-03-23",
+                    "description": "Chocolates",
+                    "amount": 150
+                },
+                {
+                    "date": "2021-03-24",
+                    "description": "Cooking Oil",
+                    "amount": 190
+                }
+            ]
+        ]
+    },
+    {
+        "Jack": [
+            [
+                {
+                    "date": "2021-01-02",
+                    "description": "Pickle",
+                    "amount": 120
+                },
+                {
+                    "date": "2021-01-03",
+                    "description": "Yogurt",
+                    "amount": 50
+                },
+                {
+                    "date": "2021-01-05",
+                    "description": "Hersheys",
+                    "amount": 170
+                },
+                {
+                    "date": "2021-01-08",
+                    "description": "Food",
+                    "amount": 700
+                },
+                {
+                    "date": "2021-01-11",
+                    "description": "Clothing",
+                    "amount": 800
+                },
+                {
+                    "date": "2021-01-15",
+                    "description": "Beverages",
+                    "amount": 375
+                },
+                {
+                    "date": "2021-01-19",
+                    "description": "Pillows",
+                    "amount": 180
+                },
+                {
+                    "date": "2021-01-22",
+                    "description": "Bedsheets",
+                    "amount": 650
+                },
+                {
+                    "date": "2021-01-25",
+                    "description": "Pizza base",
+                    "amount": 100
+                },
+                {
+                    "date": "2021-01-28",
+                    "description": "Butter",
+                    "amount": 90
+                }
+            ],
+            [
+                {
+                    "date": "2021-02-02",
+                    "description": "Cookies",
+                    "amount": 120
+                },
+                {
+                    "date": "2021-02-04",
+                    "description": "Books",
+                    "amount": 230
+                },
+                {
+                    "date": "2021-02-07",
+                    "description": "Brushes",
+                    "amount": 270
+                },
+                {
+                    "date": "2021-02-10",
+                    "description": "Hot pack",
+                    "amount": 230
+                },
+                {
+                    "date": "2021-02-13",
+                    "description": "Clothing",
+                    "amount": 980
+                },
+                {
+                    "date": "2021-02-15",
+                    "description": "Medicine",
+                    "amount": 500
+                },
+                {
+                    "date": "2021-02-18",
+                    "description": "Detergent",
+                    "amount": 190
+                },
+                {
+                    "date": "2021-02-20",
+                    "description": "Spices",
+                    "amount": 360
+                },
+                {
+                    "date": "2021-02-22",
+                    "description": "Alcohol",
+                    "amount": 500
+                },
+                {
+                    "date": "2021-02-26",
+                    "description": "Bag",
+                    "amount": 470
+                }
+            ],
+            [
+                {
+                    "date": "2021-03-02",
+                    "description": "Herbs",
+                    "amount": 120
+                },
+                {
+                    "date": "2021-03-05",
+                    "description": "Dhoop Sticks",
+                    "amount": 50
+                },
+                {
+                    "date": "2021-03-07",
+                    "description": "Cosmetics",
+                    "amount": 380
+                },
+                {
+                    "date": "2021-03-09",
+                    "description": "Serving bowl",
+                    "amount": 190
+                },
+                {
+                    "date": "2021-03-11",
+                    "description": "Blinds",
+                    "amount": 800
+                },
+                {
+                    "date": "2021-03-15",
+                    "description": "Shades",
+                    "amount": 375
+                },
+                {
+                    "date": "2021-03-17",
+                    "description": "Forks",
+                    "amount": 190
+                },
+                {
+                    "date": "2021-03-19",
+                    "description": "Alcohol",
+                    "amount": 415
+                },
+                {
+                    "date": "2021-03-21",
+                    "description": "Pizza base",
+                    "amount": 80
+                },
+                {
+                    "date": "2021-03-23",
+                    "description": "Carry Bags",
+                    "amount": 75
+                }
+            ]
+        ]
+    },
+    {
+        "Henry": [
+            [
+                {
+                    "date": "2021-01-01",
+                    "description": "Beverages",
+                    "amount": 350
+                },
+                {
+                    "date": "2021-01-03",
+                    "description": "Medicines",
+                    "amount": 230
+                },
+                {
+                    "date": "2021-01-06",
+                    "description": "Flours",
+                    "amount": 30
+                },
+                {
+                    "date": "2021-01-09",
+                    "description": "Burger",
+                    "amount": 90
+                },
+                {
+                    "date": "2021-01-11",
+                    "description": "Detergent",
+                    "amount": 135
+                },
+                {
+                    "date": "2021-01-13",
+                    "description": "Floor cleaner",
+                    "amount": 185
+                },
+                {
+                    "date": "2021-01-15",
+                    "description": "Tissues",
+                    "amount": 20
+                },
+                {
+                    "date": "2021-01-18",
+                    "description": "Candy",
+                    "amount": 17
+                },
+                {
+                    "date": "2021-01-20",
+                    "description": "Clothing",
+                    "amount": 750
+                },
+                {
+                    "date": "2021-01-23",
+                    "description": "Electronics",
+                    "amount": 390
+                }
+            ],
+            [
+                {
+                    "date": "2021-02-03",
+                    "description": "Waterbottle",
+                    "amount": 40
+                },
+                {
+                    "date": "2021-02-05",
+                    "description": "Detergents",
+                    "amount": 200
+                },
+                {
+                    "date": "2021-02-09",
+                    "description": "Headphones",
+                    "amount": 100
+                },
+                {
+                    "date": "2021-02-13",
+                    "description": "Stationery",
+                    "amount": 80
+                },
+                {
+                    "date": "2021-02-13",
+                    "description": "Sanitizer",
+                    "amount": 10
+                },
+                {
+                    "date": "2021-02-17",
+                    "description": "Medicine",
+                    "amount": 15
+                },
+                {
+                    "date": "2021-02-21",
+                    "description": "Gloves",
+                    "amount": 10
+                },
+                {
+                    "date": "2021-02-23",
+                    "description": "Footwear",
+                    "amount": 225
+                },
+                {
+                    "date": "2021-02-25",
+                    "description": "Pizza",
+                    "amount": 100
+                },
+                {
+                    "date": "2021-02-27",
+                    "description": "Toys",
+                    "amount": 20
+                }
+            ],
+            [
+                {
+                    "date": "2021-03-01",
+                    "description": "Food",
+                    "amount": 120
+                },
+                {
+                    "date": "2021-03-03",
+                    "description": "Toilet tissue",
+                    "amount": 100
+                },
+                {
+                    "date": "2021-03-05",
+                    "description": "Candies",
+                    "amount": 38
+                },
+                {
+                    "date": "2021-03-07",
+                    "description": "Toilet brush",
+                    "amount": 80
+                },
+                {
+                    "date": "2021-03-17",
+                    "description": "Detergent",
+                    "amount": 135
+                },
+                {
+                    "date": "2021-03-21",
+                    "description": "Medicine",
+                    "amount": 185
+                },
+                {
+                    "date": "2021-03-24",
+                    "description": "Face Mask",
+                    "amount": 20
+                },
+                {
+                    "date": "2021-03-25",
+                    "description": "Footwear",
+                    "amount": 225
+                },
+                {
+                    "date": "2021-03-27",
+                    "description": "Pizza",
+                    "amount": 70
+                },
+                {
+                    "date": "2021-03-31",
+                    "description": "Sanitizer",
+                    "amount": 45
+                }
+            ]
+        ]
+    }
+]
